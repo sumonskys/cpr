@@ -9,5 +9,5 @@ Run cpp code without haste and get the output.
 - Installation Instruction
 
 ```js
-
+cpr main.cpp
 ```
